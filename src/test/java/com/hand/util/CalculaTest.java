@@ -25,7 +25,7 @@ public class CalculaTest extends Calcula {
         return Arrays.asList(new Object[][]{
                 {4,2,2},
                 {4,1,3},
-                {4,5,4}
+                {9,5,4}
         });
     }
     public CalculaTest(int expected, int inputa, int inputb) throws Exception{
