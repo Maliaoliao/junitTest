@@ -11,7 +11,7 @@ public class Calcula {
     public int add(int a, int b){
         return a + b;
     }
-
+    //private static Logger logger = LoggerFactory.getLogger(FtpFileHandler.class);
     public String selectUser(UserDto dto,String name){
         System.out.println(dto.toString());
         return name;
